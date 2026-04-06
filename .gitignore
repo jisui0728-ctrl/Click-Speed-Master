@@ -31,7 +31,7 @@ DerivedData
 #
 android/.gradle/
 android/app/build/
-android/app/keystore.properties
+android/app/android_app_build_keystore.properties
 android/build/
 android/local.properties
 build/
